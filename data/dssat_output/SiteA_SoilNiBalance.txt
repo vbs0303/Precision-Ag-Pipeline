@@ -1,0 +1,44 @@
+*RUN 1
+! Label                         Col2        Col3
+! Soil NO3                      15.2        12.1
+! Soil NH4                      3.4         2.9
+! Fertilizer N                  80.0        0.0
+! Mineralized N                 25.5        0.0
+! Soil N gases                  0.0         6.7
+! N Uptake From Soil            72.3        0.0
+! N immobilized                 5.6         0.0
+! N leached                     8.1         0.0
+! NH3 loss                       2.3         0.0
+! N2O loss                       1.2         0.0
+! N2 loss                        0.7         0.0
+! NO loss                        0.3         0.0
+
+*RUN 2
+! Label                         Col2        Col3
+! Soil NO3                      15.2        12.1
+! Soil NH4                      3.4         2.9
+! Fertilizer N                  80.0        0.0
+! Mineralized N                 25.5        0.0
+! Soil N gases                  0.0         6.7
+! N Uptake From Soil            72.3        0.0
+! N immobilized                 5.6         0.0
+! N leached                     8.1         0.0
+! NH3 loss                       2.3         0.0
+! N2O loss                       1.2         0.0
+! N2 loss                        0.7         0.0
+! NO loss                        0.3         0.0
+
+*RUN 3
+! Label                         Col2        Col3
+! Soil NO3                      15.2        12.1
+! Soil NH4                      3.4         2.9
+! Fertilizer N                  80.0        0.0
+! Mineralized N                 25.5        0.0
+! Soil N gases                  0.0         6.7
+! N Uptake From Soil            72.3        0.0
+! N immobilized                 5.6         0.0
+! N leached                     8.1         0.0
+! NH3 loss                       2.3         0.0
+! N2O loss                       1.2         0.0
+! N2 loss                        0.7         0.0
+! NO loss                        0.3         0.0
